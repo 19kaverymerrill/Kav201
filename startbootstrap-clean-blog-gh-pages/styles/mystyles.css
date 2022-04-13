@@ -1,0 +1,45 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h3{
+    font-size: large;
+    font-style: oblique;
+    font-weight: 400;
+    text-decoration: underline;
+}
+
+
+h2{
+    text-align: center;
+    font-size: x-large; 
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25%;
+}
+.common{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.footer{
+
+    height: 50px;
+    background-color: tan;
+    color: black;}
+
+.subheading{
+    text-decoration: underline;
+    color: tan;
+    font-size: larger;
+    font-weight: 400;
+}
+.smile{
+    text-align: center;
+    color: blue;
+}
